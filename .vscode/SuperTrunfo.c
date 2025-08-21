@@ -2,6 +2,8 @@
 
 int main(){
 
+    //Reenvio pois fiz o push errado
+
     // Minhas variáveis
     char estado;
     char codigo[20];
